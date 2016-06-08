@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.sample.jianghw.app.MainActivity">
 
-    <com.library.jianghw.circle.RotationCircleBar
+  <!--  <com.library.jianghw.circle.RotationCircleBar
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"/>-->
 </RelativeLayout>
